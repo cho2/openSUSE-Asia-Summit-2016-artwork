@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497476"
-     inkscape:cx="1508.0704"
-     inkscape:cy="558.14934"
+     inkscape:cx="1631.9383"
+     inkscape:cy="608.96749"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -109,12 +109,20 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="2497.097,157.58379"
+       position="2497.097,160"
        orientation="0,1"
-       id="guide3473" />
+       id="guide3473"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
     <inkscape:grid
        type="xygrid"
        id="grid3475" />
+    <sodipodi:guide
+       position="2357.1428,920"
+       orientation="0,1"
+       id="guide3475"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -124,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -398,7 +406,7 @@
      id="layer3"
      inkscape:label="Layer 3">
     <g
-       transform="matrix(1.8752077,0,0,1.8752077,10.420262,-16.988276)"
+       transform="matrix(1.8752077,0,0,1.8752077,10.420262,89.011724)"
        style="display:inline"
        id="g3478">
       <g
@@ -482,7 +490,7 @@
     </g>
     <g
        id="g4305"
-       transform="matrix(3.5375137,0,0,3.5375137,1378.9485,-1386.5358)"
+       transform="matrix(3.5375137,0,0,3.5375137,1378.9485,-1280.5358)"
        style="fill:#ffffff">
       <text
          xml:space="preserve"
@@ -521,19 +529,19 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:99.01908875px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1616.1713"
-       y="126.79474"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.59941864px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1617.6329"
+       y="226.46468"
        id="text4434"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1631.0629"
-         y="126.79474"
+         x="1630.6567"
+         y="226.46468"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff"
          id="tspan4669">REGISTRATION </tspan><tspan
          sodipodi:role="line"
-         x="1616.1713"
-         y="250.5686"
+         x="1617.6329"
+         y="334.71396"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff"
          id="tspan3729">click <tspan
    style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans Bold Italic';text-align:center;text-anchor:middle;fill:#ffffff"
@@ -552,7 +560,7 @@
          style="font-size:10px">icon: Designed by Freepik and distributed by Flaticon</tspan></text>
     <g
        id="g3670"
-       transform="matrix(1.6462962,0,0,1.6462962,289.5222,-657.59255)">
+       transform="matrix(1.4398062,0,0,1.4398062,457.38151,-459.53924)">
       <g
          style="fill:#ffffff"
          transform="matrix(0.89269494,0,0,0.89269494,812.84448,578.28545)"
@@ -777,51 +785,51 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.05995941px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1620.5756"
-       y="708.56207"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.65907669px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1621.4847"
+       y="733.2627"
        id="text4695"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4697"
-         x="1620.5756"
-         y="708.56207"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff">Please make the payment to the following detail:</tspan><tspan
+         x="1621.4847"
+         y="733.2627"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.05075645px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff">Please make the payment to the following detail:</tspan><tspan
          sodipodi:role="line"
-         x="1620.5756"
-         y="742.93707"
+         x="1621.4847"
+         y="763.32611"
          id="tspan4699"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff">Account holder's name: <tspan
-   style="font-weight:bold;font-size:27.5px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.05075645px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff">Account holder's name: <tspan
+   style="font-weight:bold;font-size:24.05075645px"
    id="tspan4711">Yan Arief Purwanto</tspan></tspan><tspan
          sodipodi:role="line"
-         x="1620.5756"
-         y="777.31207"
+         x="1621.4847"
+         y="793.38959"
          id="tspan4701"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff"><tspan
-   style="font-weight:bold;font-size:27.5px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.05075645px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff"><tspan
+   style="font-weight:bold;font-size:24.05075645px"
    id="tspan4713">Bank Central Asia</tspan> (SWIFT Code: CENAIDJA)</tspan><tspan
          sodipodi:role="line"
-         x="1620.5756"
-         y="811.68707"
+         x="1621.4847"
+         y="823.453"
          id="tspan4703"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff">Account number: <tspan
-   style="font-weight:bold;font-size:27.5px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.05075645px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff">Account number: <tspan
+   style="font-weight:bold;font-size:24.05075645px"
    id="tspan4719">445 088 9143</tspan></tspan><tspan
          sodipodi:role="line"
-         x="1624.7113"
-         y="846.06207"
+         x="1625.1018"
+         y="853.51648"
          id="tspan4705"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff">Please send the confirmation email along with </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.05075645px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff">Please send the confirmation email along with </tspan><tspan
          sodipodi:role="line"
-         x="1620.5756"
-         y="880.43707"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff"
+         x="1621.4847"
+         y="883.5799"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.05075645px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff"
          id="tspan4709">the ticket and transfer receipt in the attachment to:</tspan><tspan
          sodipodi:role="line"
-         x="1620.5756"
-         y="914.81207"
+         x="1621.4847"
+         y="913.64337"
          id="tspan4707"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff"> yan@yanrf.com</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.05075645px;font-family:'Pier Sans';-inkscape-font-specification:'Pier Sans';text-align:center;text-anchor:middle;fill:#ffffff"> yan@yanrf.com</tspan></text>
   </g>
 </svg>

@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="poster-BW-1.svg"
-   inkscape:export-filename="/home/cho2/Gambar/openSUSE-Asia-Summit-2016-artwork/poster/poster-BW-1.png"
+   inkscape:export-filename="/Users/log/Downloads/Img/openSUSE-Asia-Summit-2016-artwork/poster/poster-BW-1.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -91,16 +91,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="401.04463"
-     inkscape:cy="338.80915"
+     inkscape:cx="154.61606"
+     inkscape:cy="510.23772"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="cm"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-width="1680"
+     inkscape:window-height="1001"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -194,7 +194,7 @@
        y="2.557179e-05" />
     <g
        id="g5471"
-       transform="matrix(1.2666666,0,0,1.2666666,-242.05558,-498.55827)"
+       transform="matrix(1.3347445,0,0,1.3347445,-272.14006,-514.40252)"
        style="fill:#000000">
       <text
          sodipodi:linespacing="125%"
@@ -209,39 +209,30 @@
            id="tspan4712-8"
            sodipodi:role="line">Asia Summit 2016</tspan></text>
     </g>
-    <g
-       id="g4305"
-       transform="matrix(1.5124599,0,0,1.5124599,838.14428,-367.28016)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:84.2365036px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-307.73462"
-         y="589.34253"
-         id="text3676"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3678"
-           x="-301.58038"
-           y="589.34253"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.38303375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">Hall </tspan><tspan
-           sodipodi:role="line"
-           x="-307.73462"
-           y="648.57135"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.38303375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
-           id="tspan4325">UIN Sunan Kalijaga</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:184.40086365px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-533.83295"
-         y="718.89288"
-         id="text3686"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3688"
-           x="-533.83295"
-           y="718.89288"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.15032196px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;fill-opacity:1">1 - 2 Oct 2016</tspan></text>
-    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3676"
+       y="688.64819"
+       x="372.70801"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:127.40433502px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4325"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:71.66493988px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+         y="688.64819"
+         x="372.70801"
+         sodipodi:role="line">UIN Sunan Kalijaga</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3686"
+       y="802.60602"
+       x="30.853035"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:273.94848633px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:102.73067474px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;fill-opacity:1"
+         y="802.60602"
+         x="30.853035"
+         id="tspan3688"
+         sodipodi:role="line">1 - 2 Okt 2016</tspan></text>
     <path
        sodipodi:nodetypes="csscccssccscsscsscsscsccsccscccsscccssssscscccsscsscscsscscssccscsccsscccccscccsccccscsccscsccccccsscscscsssssssccccscscssssccccscscsccsccscsccssssssscscscssccccssscssssccsscccssscsscsscsccssscsccsccsscssscssscsscscscccsccssccccssccsscsccscccsscscsssssscssssccssccsscscccssscscscccscsccssssscsscscccscccscscssssccsscssscssscsssccscssscccccccccccccccccscccccccssscsssccsssscccsscccscscccscscscscsssssccscccssscssscccsccscssssccccsssscccsccsccscssccscccsscscsscscsscccccsssscsccssccsscscsscscscssscscsccscscssscsscscccsccssccscsscsscssssscsscsscccscsssssssscsssccccsssscscccscssscsscssssssccscssscccscsscsssscscscsssssscsscsscscsscssscsscscscssscscccscccscscscccccssscccccscsscccccsccsscscccsssccssccccccsssscccccssssccsccccssccssccsscssssscsccssssscsccssccscscssccsssscssscsssssscssccccssscssscccsssccscssssscssccsssssccsscsccscsscscscsssccscccccccsssscsscscscccsccscccsccscscscsscssssssssscscssccccscscssscsscsscsccsccsscscccccsssscccssccccscscscscccscccccssccscscscccscccccssccssscsssssssscsccsccsssccccsscscscscssscccssssssssscccsccssssscccscscsscssscccsscccccsccccccscccscscsscsscccsscssssscssscssscsssssssscsccscccscssccssscssscccscccscccsccccssccccccsscsccsscscsscsccscsccccccssccssssccscccccssccsssscssssscsscccscssccsscscccccccccsscsssscssscsccscccssccccccccsccscsscscsscssscscsccsccsscscsssscsssssscsscsscscssssscscsscsscccccscsssscssssscsscccsccccsscssccscscsccsscccccccccsscccccscsccssscscccccccsscsccsccsssssccssccccsccsccsccsccsccccsccscssccccccccccccsscsccccsccssccccscccccscscssssccsscsscsccsscsccssccscccccccccscsscccscssssccssccsssccsssc"
        inkscape:connector-curvature="0"
@@ -251,22 +242,22 @@
     <text
        sodipodi:linespacing="125%"
        id="text4335"
-       y="899.09552"
-       x="370.99014"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:114.05885315px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="935.27271"
+       x="371.95483"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.15816498px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:154.64015198px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:119.52418518px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
          id="tspan4339"
-         y="899.09552"
-         x="370.99014"
+         y="935.27271"
+         x="371.95483"
          sodipodi:role="line">s.id/aS16</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:154.64015198px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
-         y="1092.3958"
-         x="370.99014"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:119.52418518px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
+         y="1084.678"
+         x="371.95483"
          sodipodi:role="line"
          id="tspan4343" /></text>
     <g
-       transform="matrix(1.8823819,0,0,1.8823819,-385.72133,-773.11046)"
+       transform="matrix(2.0922034,0,0,2.0922034,-469.53511,-860.46862)"
        id="layer1-6"
        inkscape:label="Layer 1"
        style="fill:#000000">
@@ -331,5 +322,17 @@
            d="m 667.456,415.229 c 1.218,0 2.188,0.99 2.188,2.229 0,1.257 -0.971,2.237 -2.198,2.237 -1.218,0 -2.208,-0.98 -2.208,-2.237 0,-1.238 0.99,-2.229 2.208,-2.229 l 0.01,0 z m -0.01,0.346 c -0.98,0 -1.782,0.842 -1.782,1.882 0,1.06 0.802,1.891 1.792,1.891 0.99,0.011 1.782,-0.831 1.782,-1.881 0,-1.05 -0.792,-1.892 -1.782,-1.892 l -0.01,0 z m -0.416,3.179 -0.396,0 0,-2.485 c 0.208,-0.03 0.406,-0.06 0.703,-0.06 0.377,0 0.624,0.079 0.772,0.188 0.149,0.108 0.229,0.276 0.229,0.515 0,0.326 -0.218,0.524 -0.485,0.604 l 0,0.021 c 0.218,0.039 0.366,0.237 0.416,0.604 0.06,0.387 0.118,0.535 0.158,0.614 l -0.416,0 c -0.06,-0.079 -0.119,-0.307 -0.168,-0.634 -0.06,-0.316 -0.218,-0.436 -0.535,-0.436 l -0.277,0 0,1.069 z m 0,-1.377 0.287,0 c 0.327,0 0.604,-0.118 0.604,-0.426 0,-0.218 -0.158,-0.436 -0.604,-0.436 -0.129,0 -0.218,0.01 -0.287,0.021 l 0,0.841 z" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:140.33477783px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="373.92191"
+       y="618.46002"
+       id="text3395"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="373.92191"
+         y="618.46002"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:78.93831635px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+         id="tspan3399">Convention Hall</tspan></text>
   </g>
 </svg>

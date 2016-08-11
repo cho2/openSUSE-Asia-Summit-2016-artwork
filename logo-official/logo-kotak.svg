@@ -10,13 +10,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="600"
-   height="500"
-   viewBox="0 0 600.00001 500.00001"
+   height="600"
+   viewBox="0 0 600.00001 600.00001"
    id="svg4451"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/cho2/Gambar/openSUSE-Asia-Summit-2016-artwork/logo-official/logo-green.png"
+   sodipodi:docname="logo-kotak.svg"
+   inkscape:export-filename="/home/cho2/Gambar/openSUSE-Asia-Summit-2016-artwork/logo-official/logo-green-kotak.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="105.78571"
-     inkscape:cy="178.38187"
+     inkscape:cx="80.78571"
+     inkscape:cy="267.05231"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,7 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="-112.85715,500.00001"
+       position="-112.85715,600.00001"
        orientation="0,1"
        id="guide5279"
        inkscape:label=""
@@ -67,7 +67,7 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="-285.71429,250"
+       position="-285.71429,300"
        orientation="0,1"
        id="guide5302"
        inkscape:label=""
@@ -95,7 +95,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-552.36216)">
+     transform="translate(0,-452.36216)">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5304"
@@ -370,7 +370,7 @@
        inkscape:export-filename="C:\Users\22489-00\Desktop\opensuse_asia_summit_2016.png"
        inkscape:export-xdpi="281.25"
        inkscape:export-ydpi="281.25"
-       transform="matrix(5.6094717,0,0,5.6094717,-1496.469,-2409.6977)">
+       transform="matrix(5.6094717,0,0,5.6094717,-1496.469,-2459.6977)">
       <path
          sodipodi:nodetypes="cscccccccccccccccccccccccccccccccccccccccccccccccccccsccccccscccccccccccsscccccccsccsscccccccsccscccssccscscscscccccsccsccccccccccccsccccccccscccccscsssccsscccsccccssccsccccccccsssccccccccccccccccccsscsccccccc"
          inkscape:connector-curvature="0"

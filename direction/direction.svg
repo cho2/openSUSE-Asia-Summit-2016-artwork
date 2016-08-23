@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="direction.svg"
-   inkscape:export-filename="/home/cho2/Gambar/openSUSE-Asia-Summit-2016-artwork/direction/left.png"
+   inkscape:export-filename="/home/cho2/Gambar/openSUSE-Asia-Summit-2016-artwork/direction/toilet-right.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="215.14357"
-     inkscape:cy="355.86085"
+     inkscape:cx="548.34344"
+     inkscape:cy="354.21054"
      inkscape:document-units="cm"
-     inkscape:current-layer="g4313"
+     inkscape:current-layer="g4264"
      showgrid="false"
      units="cm"
      inkscape:window-width="1366"
@@ -102,6 +102,13 @@
        id="guide4173"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4229" />
+    <sodipodi:guide
+       position="760.00001,540"
+       orientation="0,1"
+       id="guide4233" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -129,7 +136,7 @@
        x="0"
        y="308.26773" />
     <g
-       transform="matrix(0.72273238,0,0,0.72273238,757.05667,2.0551323)"
+       transform="matrix(0.6775616,0,0,0.6775616,386.41385,20.750512)"
        id="layer1-6"
        inkscape:label="Layer 1">
       <g
@@ -374,11 +381,11 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="right"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g4295"
-       transform="matrix(0,-32.470168,32.470168,0,170.07874,827.8797)">
+       transform="matrix(0,-33.606671,33.606671,0,170.07874,831.4324)">
       <path
          id="path4257"
          d="m 16.791,13.254 c 0.444,-0.444 1.143,-0.444 1.587,0 0.429,0.444 0.429,1.143 0,1.587 l -6.65,6.651 c -0.206,0.206 -0.492,0.333 -0.809,0.333 -0.317,0 -0.603,-0.127 -0.81,-0.333 l -6.65,-6.651 c -0.444,-0.444 -0.444,-1.143 0,-1.587 0.444,-0.444 1.143,-0.444 1.587,0 l 4.746,4.762 0,-16.905 C 9.791,0.492 10.299,0 10.918,0 c 0.619,0 1.111,0.492 1.111,1.111 l 0,16.904 4.762,-4.761 z"
@@ -419,9 +426,11 @@
   <g
      inkscape:label="left"
      id="g4313"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
-       transform="matrix(0,-32.470168,-32.470168,0,878.74016,827.8797)"
+       transform="matrix(0,-33.606671,-33.606671,0,903.54433,831.4324)"
        id="g4315">
       <path
          inkscape:connector-curvature="0"
@@ -459,5 +468,119 @@
       <g
          id="g4347" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="hall"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:210.65235901px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="564.59827"
+       y="164.40811"
+       id="text4236"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4238"
+         x="564.59827"
+         y="164.40811"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.5px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'">HALL</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="lab"
+     id="g4240"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4242"
+       y="164.40811"
+       x="682.59827"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:210.65235901px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.5px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+         y="164.40811"
+         x="682.59827"
+         id="tspan4244"
+         sodipodi:role="line">LAB</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4246"
+     inkscape:label="FST 101"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:210.65235901px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="318.59827"
+       y="164.40811"
+       id="text4248"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4250"
+         x="318.59827"
+         y="164.40811"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.5px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'">FST 101</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="FST 102"
+     id="g4252"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4254"
+       y="164.40811"
+       x="318.59827"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:210.65235901px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.5px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+         y="164.40811"
+         x="318.59827"
+         id="tspan4256"
+         sodipodi:role="line">FST 102</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4258"
+     inkscape:label="FST 103"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:210.65235901px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="318.59827"
+       y="164.40811"
+       id="text4260"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4262"
+         x="318.59827"
+         y="164.40811"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.5px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'">FST 103</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="toilet"
+     id="g4264"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4266"
+       y="164.40811"
+       x="404.59827"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:210.65235901px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.5px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+         y="164.40811"
+         x="404.59827"
+         id="tspan4268"
+         sodipodi:role="line">TOILET</tspan></text>
   </g>
 </svg>

@@ -323,16 +323,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="576.11089"
-     inkscape:cy="376.93476"
+     inkscape:cx="731.70381"
+     inkscape:cy="225.19941"
      inkscape:document-units="cm"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="cm"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-width="1680"
+     inkscape:window-height="1001"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -443,7 +443,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="text"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        x="525.64398"
        font-size="16"
@@ -469,7 +469,7 @@
       <tspan
          x="525.64398"
          font-size="30"
-         y="195.96257"
+         y="194.66443"
          line-height="91.00000262%"
          sodipodi:role="line"
          id="tspan129"
@@ -539,27 +539,6 @@
          sodipodi:role="line"
          id="tspan149"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#000000" /></text>
-    <text
-       x="34.290001"
-       font-size="16"
-       font-stretch="normal"
-       font-style="normal"
-       letter-spacing="0"
-       y="709.24451"
-       font-variant="normal"
-       font-weight="normal"
-       line-height="125%"
-       word-spacing="0"
-       sodipodi:linespacing="125%"
-       xml:space="preserve"
-       id="text151"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none"><tspan
-         x="34.290001"
-         font-size="13.75"
-         y="709.24451"
-         sodipodi:role="line"
-         id="tspan153"
-         style="font-size:13.75px;font-family:'Open Sans';fill:#000000">xxKODExx</tspan></text>
     <flowRoot
        font-size="16"
        font-stretch="normal"
@@ -649,96 +628,14 @@
        id="path243"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
-       x="899.97699"
-       font-size="16"
-       font-stretch="normal"
-       font-style="normal"
-       letter-spacing="0"
-       y="531.37421"
-       font-variant="normal"
-       font-weight="normal"
-       line-height="125%"
-       word-spacing="0"
-       sodipodi:linespacing="125%"
-       xml:space="preserve"
-       id="text249"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none"><tspan
-         x="899.97699"
-         font-size="17.5"
-         y="531.37421"
-         line-height="125%"
-         sodipodi:role="line"
-         id="tspan251"
-         style="font-size:17.5px;line-height:125%;font-family:'Open Sans';text-anchor:middle;fill:#000000">Ketua openSUSE ID</tspan><tspan
-         x="899.97699"
-         font-size="17.5"
-         y="553.24921"
-         line-height="125%"
-         sodipodi:role="line"
-         id="tspan253"
-         style="font-size:17.5px;line-height:125%;font-family:'Open Sans';text-anchor:middle;fill:#000000">Head of openSUSE ID</tspan></text>
-    <text
-       x="851.547"
-       font-size="16"
-       font-stretch="normal"
-       font-style="normal"
-       letter-spacing="0"
-       y="669.02423"
-       font-variant="normal"
-       font-weight="normal"
-       line-height="125%"
-       word-spacing="0"
-       sodipodi:linespacing="125%"
-       xml:space="preserve"
-       id="text255"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none"><tspan
-         x="851.547"
-         font-size="17.5"
-         y="669.02423"
-         sodipodi:role="line"
-         id="tspan257"
-         style="font-size:17.5px;font-family:'Open Sans';fill:#000000">Andi Sugandi</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.28791451;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path261"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       d="m 820.30578,537.93872 160.07837,0" />
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="text265"
-       xml:space="preserve"
-       sodipodi:linespacing="125%"
-       font-stretch="normal"
-       font-size="16"
-       y="531.82422"
-       x="196.18201"
-       word-spacing="0"
-       line-height="125%"
-       letter-spacing="0"
-       font-weight="normal"
-       font-variant="normal"
-       font-style="normal"><tspan
-         style="font-size:17.5px;font-family:'Open Sans';text-anchor:middle"
-         id="tspan267"
-         sodipodi:role="line"
-         y="531.82422"
-         font-size="17.5"
-         x="196.18201">Dekan FST UIN Sunan Kalijaga</tspan><tspan
-         id="tspan277"
-         sodipodi:role="line"
-         y="553.69922"
-         x="196.18201"
-         style="font-size:17.5px;font-family:'Open Sans';text-anchor:middle">Dean of FST UIN Sunan Kalijaga</tspan></text>
-    <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text279"
        xml:space="preserve"
        sodipodi:linespacing="125%"
        font-stretch="normal"
        font-size="16"
-       y="666.9342"
-       x="132.53528"
+       y="662.85706"
+       x="121.67029"
        word-spacing="0"
        line-height="125%"
        letter-spacing="0"
@@ -748,15 +645,45 @@
          style="font-size:17.5px;font-family:'Open Sans';fill:#000000"
          id="tspan281"
          sodipodi:role="line"
-         y="666.9342"
+         y="662.85706"
          font-size="17.5"
-         x="132.53528">Estu Fardani</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25448871;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path285"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       d="m 75.716871,537.95543 242.444259,0" />
+         x="121.67029">Dr. Murtono, M.Si.</tspan></text>
+    <g
+       id="g3587"
+       transform="translate(0,-5.5405273)">
+      <text
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         letter-spacing="0"
+         line-height="125%"
+         word-spacing="0"
+         x="196.18201"
+         y="531.82422"
+         font-size="16"
+         font-stretch="normal"
+         sodipodi:linespacing="125%"
+         xml:space="preserve"
+         id="text265"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+           x="196.18201"
+           font-size="17.5"
+           y="531.82422"
+           sodipodi:role="line"
+           id="tspan267"
+           style="font-size:17.5px;font-family:'Open Sans';text-anchor:middle">Dekan FST UIN Sunan Kalijaga</tspan><tspan
+           style="font-size:17.5px;font-family:'Open Sans';text-anchor:middle"
+           x="196.18201"
+           y="553.69922"
+           sodipodi:role="line"
+           id="tspan277">Dean of FST UIN Sunan Kalijaga</tspan></text>
+      <path
+         d="m 75.716871,537.95543 242.444259,0"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path285"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25448871;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
     <path
        d="m 368.69696,473.6889 314.67047,0"
        sodipodi:nodetypes="cc"
@@ -1000,35 +927,6 @@
     </g>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none"
-       id="text7633"
-       xml:space="preserve"
-       sodipodi:linespacing="125%"
-       word-spacing="0"
-       line-height="125%"
-       font-weight="normal"
-       font-variant="normal"
-       y="531.37421"
-       letter-spacing="0"
-       font-style="normal"
-       font-stretch="normal"
-       font-size="16"
-       x="525.97699"><tspan
-         style="font-size:17.5px;line-height:125%;font-family:'Open Sans';text-anchor:middle;fill:#000000"
-         id="tspan7635"
-         sodipodi:role="line"
-         line-height="125%"
-         y="531.37421"
-         font-size="17.5"
-         x="525.97699">Anggota Dewan openSUSE</tspan><tspan
-         style="font-size:17.5px;line-height:125%;font-family:'Open Sans';text-anchor:middle;fill:#000000"
-         id="tspan7637"
-         sodipodi:role="line"
-         line-height="125%"
-         y="553.24921"
-         font-size="17.5"
-         x="525.97699">openSUSE Board Member</tspan></text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none"
        id="text7639"
        xml:space="preserve"
        sodipodi:linespacing="125%"
@@ -1036,24 +934,56 @@
        line-height="125%"
        font-weight="normal"
        font-variant="normal"
-       y="669.02423"
+       y="663.30994"
        letter-spacing="0"
        font-style="normal"
        font-stretch="normal"
        font-size="16"
-       x="477.547"><tspan
+       x="815.04633"><tspan
          style="font-size:17.5px;font-family:'Open Sans';fill:#000000"
          id="tspan7641"
          sodipodi:role="line"
-         y="669.02423"
+         y="663.30994"
          font-size="17.5"
-         x="477.547">Edwin Zakaria</tspan></text>
-    <path
-       d="m 417.02007,537.93872 217.93551,0"
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path7643"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.50274301;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         x="815.04633">M. Edwin Zakaria</tspan></text>
+    <g
+       id="g3593">
+      <text
+         x="884.5484"
+         font-size="16"
+         font-stretch="normal"
+         font-style="normal"
+         letter-spacing="0"
+         y="525.65991"
+         font-variant="normal"
+         font-weight="normal"
+         line-height="125%"
+         word-spacing="0"
+         sodipodi:linespacing="125%"
+         xml:space="preserve"
+         id="text7633"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="884.5484"
+           font-size="17.5"
+           y="525.65991"
+           line-height="125%"
+           sodipodi:role="line"
+           id="tspan7635"
+           style="font-size:17.5px;line-height:125%;font-family:'Open Sans';text-anchor:middle;fill:#000000">Panitia openSUSE Asia</tspan><tspan
+           x="884.5484"
+           font-size="17.5"
+           y="547.53491"
+           line-height="125%"
+           sodipodi:role="line"
+           id="tspan7637"
+           style="font-size:17.5px;line-height:125%;font-family:'Open Sans';text-anchor:middle;fill:#000000">openSUSE Asia Commiitee</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.50274301;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path7643"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         d="m 775.5915,532.22443 217.93551,0" />
+    </g>
     <g
        id="g4439"
        transform="matrix(0.70042827,0,0,0.70042827,743.03842,-633.54922)"

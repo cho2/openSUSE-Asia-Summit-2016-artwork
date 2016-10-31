@@ -10,13 +10,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="500cm"
-   height="150cm"
-   viewBox="0 0 17716.535 5314.9608"
+   height="125cm"
+   viewBox="0 0 17716.535 4429.134"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="spanduk-foto.svg"
-   inkscape:export-filename="/home/cho2/Gambar/openSUSE-Asia-Summit-2016-artwork/spanduk/spanduk-foto.png"
+   inkscape:export-filename="/Users/log/Downloads/spanduk1_png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -29,16 +29,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.056568542"
-     inkscape:cx="10496.688"
-     inkscape:cy="2421.3694"
+     inkscape:cx="7323.5463"
+     inkscape:cy="2545.1131"
      inkscape:document-units="m"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="m"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-width="1680"
+     inkscape:window-height="1001"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -55,7 +55,7 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="4175,5314.961"
+       position="-2793.0718,4419.4177"
        orientation="0,1"
        id="guide4159"
        inkscape:label=""
@@ -95,17 +95,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,4262.6572)">
+     transform="translate(0,3376.8303)">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#73ba25;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4167"
        width="17716.535"
-       height="5314.9604"
+       height="4395.7217"
        x="-0.00097656262"
-       y="-4262.6572" />
+       y="-3343.4182" />
     <g
        id="g4274"
-       transform="matrix(1.6391297,0,0,1.6391297,-13949.09,-699.51378)">
+       transform="matrix(1.2578218,0,0,1.2578218,-8672.6654,-355.67818)">
       <path
          id="path4175"
          d="m 16028.061,80.452768 c 0,3.306936 -2.785,6.10913 -6.249,6.10913 l -2.784,0 c -3.307,0 -6.109,-2.784789 -6.109,-6.10913 l 0,-51.84928 -29.241,0 0,51.84928 c 0,3.306936 -2.959,6.10913 -6.44,6.10913 l -2.593,0 c -3.307,0 -6.109,-2.784789 -6.109,-6.10913 l 0,-51.84928 -21.93,0 c -3.133,0 -5.744,-2.262641 -5.744,-5.743627 l 0,-2.958837 c 0,-3.480986 2.611,-5.569577 5.744,-5.569577 l 76.755,0 c 2.959,0 5.048,1.0617 6.092,2.784788 l 14.446,21.75616 14.446,-21.75616 c 1.219,-1.566443 2.959,-2.784788 6.092,-2.784788 l 9.764,0 0,66.660874 c 0,3.132887 -2.959,6.091725 -6.44,6.091725 l -0.87,-0.504743 -2.785,0 c -3.307,0 -6.109,-2.784789 -6.109,-6.10913 l 0,-43.51232 -9.572,14.62014 c -1.045,1.392394 -2.959,2.088591 -4.7,2.088591 l -1.061,0 c -1.741,0 -3.83,-0.696197 -4.856,-2.088591 l -9.765,-14.62014 0,43.494915 z"
